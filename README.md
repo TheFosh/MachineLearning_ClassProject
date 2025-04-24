@@ -12,6 +12,6 @@
 <p>After being trained for 100 epochs, the neural network did better then a 1 out of 7 guess (~14%). It averaged ~35% accuracy on the validation sets.</p>
 <p>This can be seen in graph below. It shows the increase in accuracy over time.</p>
 
-![https://github.com/TheFosh/MachineLearning_ClassProject/blob/main/Images/AccuracyOverTime.png]
+![AccuracyVTime.png](https://github.com/TheFosh/MachineLearning_ClassProject/blob/main/Images/AccuracyOverTime.png)
 
 ### Take Aways:
