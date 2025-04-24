@@ -133,10 +133,6 @@ def network_result(trained_network="foodNN.pt"):
     disp.plot()
     plt.show()
 
-    importances = pd.DataFrame(foodNN.feature_importances_, index=pd.DataFrame(X).columns[:])
-    importances.plot.bar()
-    plt.show()
 
-
-# trainNN(epochs=100, batch_size=8)
+# trainNN(epochs=100, batch_size=16)
 network_result()
