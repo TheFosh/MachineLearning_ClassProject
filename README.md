@@ -14,4 +14,8 @@
 
 ![AccuracyVTime.png](https://github.com/TheFosh/MachineLearning_ClassProject/blob/main/Images/AccuracyOverTime.png)
 
+<p>As well, these guesses aren't two far off the real reaults when viewing the confusion matrix of the neural network below.</p>
+
+![ConfusionMatrix](https://github.com/TheFosh/MachineLearning_ClassProject/blob/main/Images/foodNN_CM.png)
+
 ### Take Aways:
